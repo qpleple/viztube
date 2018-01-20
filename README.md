@@ -31,11 +31,7 @@
     └── templates                      # all template (HTML)
         └── index.html.j2
 
-Here are the different components explained:
-
-* The **Controller** parses the HTTP requests 
-
-
+Here are the different components:
 
      [1] + Incoming HTTP request:
          | GET /videos/1251/frames?boxes=ground-truth
